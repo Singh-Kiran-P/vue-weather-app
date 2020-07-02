@@ -1,8 +1,8 @@
 # WeatherApp
 A web based weather app that uses
-- laravel
-- vue
-- tailwindcss
+- Laravel
+- Vue.js
+- Tailwindcss
 
 ## License
 
