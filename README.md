@@ -5,8 +5,7 @@ A web based weather app that uses
 - Tailwindcss
 
 <img src="https://i.ibb.co/hDnYzdY/Screenshot-1.jpg"
-     alt="preview"
-     
+     alt="preview"     
      style="float: left; margin-right: 10px;" />
 
 ## License
