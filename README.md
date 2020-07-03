@@ -3,6 +3,8 @@ A web based weather app that uses
 - Laravel
 - Vue.js
 - Tailwindcss
+- weatherstack API
+- agoglia API
 
 <img src="https://i.ibb.co/hDnYzdY/Screenshot-1.jpg"
      alt="preview"     
